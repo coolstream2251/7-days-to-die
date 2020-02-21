@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Creative Blocks" />
+		<Description value="adds recipes for items that don't have one but should have"/>
+		<Author value="Mohrdain"/>
+		<Version value="A18.3"/>
+	</ModInfo>
+</xml>
